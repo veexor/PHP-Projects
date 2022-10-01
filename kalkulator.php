@@ -10,7 +10,7 @@
 
  <html>
 	<head>
-		<title>Simple Kalkulator</title>
+		<title>Simple Kalkulator 2022</title>
 	</head>
 		<body>
 			
